@@ -1,0 +1,15 @@
+1 Introduction 1-32
+2 Data structures and Libraries 33-67
+3 Problem Solving Paradigms 69-120
+
+4 graphs 121-190
+
+5  Mathematics 191-231
+
+6 String Processing 233-267
+
+7 Computational Geometry 269-297
+
+8 More Advanced topics 299-333
+
+9 Rare topics 335--391
